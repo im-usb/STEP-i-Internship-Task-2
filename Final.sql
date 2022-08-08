@@ -69,6 +69,10 @@ where result = 'tie'
 order by date desc;
 
 -- Get the count of cities that have hosted an IPL match.
+select colunt(distinct city) 
+from matches;
+
+-- Number of Matches played in each city which has hosted IPL
 select city, Count (*) as "Number of games played" from matches
 Group By city
 order by city;
