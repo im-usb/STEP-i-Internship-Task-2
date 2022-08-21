@@ -22,7 +22,7 @@ Wrote queries in SQL for the following tasks:
 * Select the top 20 rows of the matches table.
 * Fetched data of all the matches played on 2nd May 2013.
 * Fetched data of all the matches where the margin of victory is more than 100 runs.
-* Fetched data of all the matches where the final scores of both teams tied and order it in descending order of the date.
+* Fetched data of all the matches where the final scores of both teams tied and ordered it in descending order of the date.
 * As an output to the the  SQL query, got the count of cities that have hosted an IPL match.
 
 
