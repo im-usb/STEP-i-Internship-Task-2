@@ -2,11 +2,11 @@
 
 1. As a data analysis intern, I completed the following operations on the provided general store transaction dataset using MS Excel
 
-*Draw a Pivot table to get the different types of outlets and their counts
-*Draw a Pivot table to get the total sales for different outlets
-*Draw a Pivot table to find out the total sales of different item types in different outlet types
-*In the third Pivot table, filter out (remove) low-fat products 
-*Add slicers for item fat and item type in the last Pivot table
+* Draw a Pivot table to get the different types of outlets and their counts
+* Draw a Pivot table to get the total sales for different outlets
+* Draw a Pivot table to find out the total sales of different item types in different outlet types
+* In the third Pivot table, filter out (remove) low-fat products 
+* Add slicers for item fat and item type in the last Pivot table
 
 2. Also, I tried to prepare a basic Dashboard on MS Excel for Profit and Loss statement of a company for the year 2020.
 
