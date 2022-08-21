@@ -14,16 +14,16 @@
 
 Wrote queries in SQL for the following tasks:
 
-*Create a table named ‘matches’ with appropriate data types for columns
-*Create a table named ‘deliveries’ with appropriate data types for columns
-*Import data from CSV file ’IPL_matches.csv’ attached in resources to ‘matches’
-*Import data from CSV file ’IPL_Ball.csv’ attached in resources to ‘deliveries’
-*Select the top 20 rows of the deliveries table.
-*Select the top 20 rows of the matches table.
-*Fetch data of all the matches played on 2nd May 2013.
-*Fetch data of all the matches where the margin of victory is more than 100 runs.
-*Fetch data of all the matches where the final scores of both teams tied and order it in descending order of the date.
-*Get the count of cities that have hosted an IPL match.
+* Create a table named ‘matches’ with appropriate data types for columns
+* Create a table named ‘deliveries’ with appropriate data types for columns
+* Import data from CSV file ’IPL_matches.csv’ attached in resources to ‘matches’
+* Import data from CSV file ’IPL_Ball.csv’ attached in resources to ‘deliveries’
+* Select the top 20 rows of the deliveries table.
+* Select the top 20 rows of the matches table.
+* Fetch data of all the matches played on 2nd May 2013.
+* Fetch data of all the matches where the margin of victory is more than 100 runs.
+* Fetch data of all the matches where the final scores of both teams tied and order it in descending order of the date.
+* Get the count of cities that have hosted an IPL match.
 
 
 
